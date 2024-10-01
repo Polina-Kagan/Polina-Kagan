@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Polina, a full-time full-stack developer 🌵Working remotely since 2013 🚀</div>  
   
