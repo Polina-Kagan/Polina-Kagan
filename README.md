@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Polina, a full-time full-stack developer 🌵Working remotely since 2013 🚀</div>  
+### <div align="center">I'm Polina, a full-time full-stack developer 🌵Working remotely since 2019 🚀</div>  
   
 
 - 👍I’m currently working & looking for new projects!  
