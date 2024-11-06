@@ -8,7 +8,7 @@
 - 🥇I'm getting AWS certification  
   
 
-- 🖖Work experience since 2020  
+- 🖖Work experience since 2019  
   
 
 - 😜Fun fact: citizen of the world. Me & my dog are ready to start a new life!  
