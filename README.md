@@ -26,7 +26,7 @@ I build automated, scalable, and secure data pipelines. My background in commerc
 <div align="center">
   <h3>🛠️ Tech Arsenal</h3>
   <br>
-  <img src="https://skillicons.dev/icons?i=python,pandas,mysql,aws,terraform,git,bash,c" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,aws,terraform,git,bash,c" alt="Tech Stack" />
 </div>
 
 <br>
